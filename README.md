@@ -1,14 +1,14 @@
 # 🦈 SHARKFLIX — From Data to Screen
 
-> **"Two countries. Some of the world's most beautiful beaches. And thousands of shark attacks."**
+> **"Two countries. Some of the world's most beautiful beaches. And multiple shark attacks."**
 
 ---
 
 ## 🎬 Project Overview & Premise
 
-**SHARKFLIX** is a data-driven documentary series concept designed as a high-octane pitch for global streaming platforms. Created by **Blue Fang Studios**, this project bridges data science and investigative media production by transforming raw global shark attack archives into a compelling 7-episode true-crime style narrative structure.
+**SharkFlix** is a data-driven documentary series concept designed as a high-octane pitch for global streaming platforms. Created by **Blue Fang Studios**, this project bridges data science and investigative media production by transforming raw global shark attack archives into a compelling 7-episode true-crime style narrative structure.
 
-While marine biologists agree that sharks generally avoid humans, thousands of attacks have been recorded over the last 25 years. SHARKFLIX investigates the environmental triggers, human activity factors, and localized anomalies behind these dangerous encounters—proving that behind every statistic is a human story.
+While marine scientists agree that sharks generally avoid humans, thousands of attacks have been recorded over the last 25 years. SharkFlix investigates the environmental triggers, human activity factors, and localized anomalies behind these dangerous encounters—proving that behind every statistic is a human story.
 
 ---
 
@@ -30,7 +30,7 @@ Using Python and the Pandas library, we processed decades of unrefined data from
 
 ## 📊 Key Findings & Dangerous Figures
 
-* **The Global Scale:** **~3,000 recorded cases** and **100+ fatalities** analyzed over the last 25 years.
+* **The Global Scale:** **~1,500 recorded cases** and **100+ fatalities** analyzed over the last 25 years.
 * **The 80%+ Rule:** Over 80% of all recorded incidents in the dataset occur across two primary countries: **USA** and **Australia**.
 * **Overall Trend:** Annual reported incidents peaked in **2015 (76 cases)** and showed a decrease toward recent years (**19 recorded cases**). However, human risk and severity remain critical.
 * **Volume vs. Fatality Paradox:**
@@ -91,16 +91,12 @@ git clone https://github.com/YOUR_USERNAME/data-cleaning-pandas.git
 ## 🔗 Presentation Slides
 
 📺 **Presentation Deck (SharkFlix_Project_Unit2):**  
-👉 [**Click Here to View Google Slides Presentation**](https://docs.google.com/presentation/d/YOUR_GOOGLE_SLIDES_SHARE_LINK_HERE/edit?usp=sharing)
-
-*(Note: Ensure your Google Slides sharing settings are set to "Anyone with the link can view")*
+👉 [**Click Here to View Google Slides Presentation**](https://docs.google.com/presentation/d/19dJgVnswjb_o1ge83D2CvB0xLr7z0riOQMANHMr_5q8/edit?usp=sharing)
 
 ---
 
 ## 👥 Team & Authors — Blue Fang Studios
 
-* **Presenter 1:** Creative & Narrative Lead
-* **Presenter 2:** Data & Analytics Lead
-* **Presenter 3:** Production & Showrunner
-
-*Produced for the Data Analytics Project Presentation.*
+* **Raquel Marques:** Creative & Narrative Lead
+* **Diego Sanchez:** Data & Analytics Lead
+* **Jovana Zivkovic:** Production & Showrunner
